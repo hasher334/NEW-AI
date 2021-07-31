@@ -1,0 +1,6 @@
+1. Unzip and put nltk_data folder into your home directory
+2. Open the terminal in the folder with main.py script
+3. Run command to install all the dependencies:
+pip install -r requirements.txt
+4. To start the program run this command and follow the instructions:
+CUDA_VISIBLE_DEVICES="-1" python main.py
